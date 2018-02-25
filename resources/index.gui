@@ -1,0 +1,7 @@
+<svg>
+  <rect id="main"/>
+  <use id="nearby" href="#square-button-neutral" y="20" fill="fb-red">
+    <set href="#text" attributeName="text-buffer" to="Nearby Routes" />
+  </use>
+   
+</svg>
